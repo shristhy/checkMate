@@ -11,6 +11,14 @@
     </style>
 
     <!-- Mockup of Industrial Design theme -->
+    <style name="MockupTheme">
+        <item name="android:textColor">@color/lightText</item>
+        <item name="android:textColorHint">@color/lightHintText</item>
+    </style>
+
+    <style name="MyTheme">
+
+    </style>
 
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
